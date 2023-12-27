@@ -1,4 +1,4 @@
 # MyFirstGitRepositoryProject
 MyFirstGitRepositoryProject
 
-Author - Md Risul Amin
+<i>Author - Md Risul Amin</i>
